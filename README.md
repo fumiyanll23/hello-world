@@ -1,3 +1,3 @@
 # Hello World
 
-Print "hello, world" in various programming languages
+Print "Hello, World" in various programming languages
